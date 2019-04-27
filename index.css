@@ -1,7 +1,6 @@
-#nav{
-    background: #487e48;
-}
-
-.link{
-    color: red;
+.mydiv{
+    width:400px;
+    height:100px;
+    background: red;
+    border:1px solid #000
 }
