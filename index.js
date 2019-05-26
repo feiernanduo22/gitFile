@@ -5,6 +5,7 @@ $(window).resize(function(){
         'left': ($(window).width() - $(".mydiv").outerWidth())/2, 
         'top': ($(window).height() - $(".mydiv").outerHeight())/2
     });        
+    $("#buttonOne").attr("disabled", true);
 });
 
 
